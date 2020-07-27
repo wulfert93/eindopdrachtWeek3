@@ -1,6 +1,7 @@
 # eindopdrachtWeek3
 
 Voor deze opdracht moest ik d.m.v. Javascript een To-do lijst maken.
+Het resultaat in functie is te zien op: https://sad-bassi-26670e.netlify.app/
 
 ![To-Do app home](/img/week3_home.PNG)
 
